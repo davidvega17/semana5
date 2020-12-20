@@ -1,4 +1,3 @@
-const config = require('../secret/config.js');
 const db = require('../models');
 const bodyParser = require('body-parser');
 const Sequelize = require('sequelize');
